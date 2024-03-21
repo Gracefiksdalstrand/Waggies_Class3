@@ -185,7 +185,7 @@ a:focus {
       .custom_nav-container .navbar-nav .nav-item .nav-link i {
         margin-right: 5px; }
     .custom_nav-container .navbar-nav .nav-item:hover .nav-link {
-      color: #2c7873; }
+      color: #7A9648; }
 
 .custom_nav-container .nav_search-btn {
   width: 35px;
@@ -590,7 +590,7 @@ a:focus {
     border: 1px solid #2c7873; }
     .info_section .info_form button:hover {
       background-color: transparent;
-      color: #; }
+      color: #EDEDED; }
 
 /* footer section*/
 .footer_section {
